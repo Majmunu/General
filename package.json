@@ -11,10 +11,19 @@
     "lint:css": "stylelint src/*.{html,vue,css,sass,scss} --fix"
   },
   "dependencies": {
+    "@ant-design/pro-components": "^2.4.2",
+    "antd": "^4.24.8",
+    "axios": "^1.3.5",
     "eslint-config-next": "13.2.3",
+    "less-loader": "^11.1.0",
+    "net": "^1.0.2",
     "next": "13.2.3",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "sass": "^1.62.0",
+    "tencentcloud-sdk-nodejs": "^4.0.575",
+    "tencentcloud-sdk-nodejs-tmt": "^4.0.571",
+    "tls": "^0.0.1"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
